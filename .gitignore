@@ -52,3 +52,9 @@ docs/xml/
 docs/Doxyfile
 docs/conf.py
 docs/.venv/
+
+deps/simdjson/simdjson_download.lock
+
+deps/simdjson/simdjson.cpp
+
+deps/simdjson/simdjson.h
